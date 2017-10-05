@@ -44,14 +44,15 @@ http://adsabs.harvard.edu/abs/2012AJ....144....4M
 ------
 
 ### Beasts of the Southern Wild: Discovery of Nine Ultra Faint Satellites in the Vicinity of the Magellanic Clouds.
-####Koposov 
+#### Koposov 
 http://adsabs.harvard.edu/abs/2015ApJ...805..130K
 
 ------
 
 ### Eight Ultra-faint Galaxy Candidates Discovered in Year Two of the Dark Energy Survey
-#### Drlica-Wagner
+#### Drlica-Wagner (*)
 http://adsabs.harvard.edu/abs/2015ApJ...813..109D
+
 
 ------
 
